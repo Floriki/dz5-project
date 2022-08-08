@@ -1,0 +1,84 @@
+
+.header {
+    padding-top: 10px;
+    background-color: darkseagreen;
+    height: 150px;
+    letter-spacing: 0.2rem;
+    word-spacing: 0.5rem;
+    text-align: center
+}
+
+.content {
+    position: relative;
+  }
+
+  .header_title {
+    border-top: 3px solid black;
+    font-size: 2em;
+    font-weight: bold;
+  }
+  
+  .underline {
+    font-weight: bold;
+    color: green;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+  }
+
+  
+  .line-through {
+    text-decoration: line-through;
+    text-decoration-color: red;
+  }
+  
+  .blockYellow, .blockGreen, .blockBlueviolet, .blockPalevioletred {
+    width: 350px;
+    padding: 25px;
+    position: absolute;
+  }
+  
+  .title {
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+    font-size: 1.2em;
+    text-transform:uppercase;  
+  }
+
+  .block_text {
+    text-indent: 20px;
+    line-height: 2;
+    font-size: 15px;
+  }
+  
+  .blockYellow {
+    background-color:yellow;
+    border: 5px dotted black;
+    top: 2rem;
+    left: 3rem;
+  }
+
+  .blockGreen {
+    background-color:rgb(149, 197, 52);
+    border: 5px dashed black;
+    top: 15rem;
+    left: 60rem;
+    
+  }
+  .blockBlueviolet {
+    background-color:blueviolet;
+    border: 5px dashed black;
+    top: 28rem;
+    left: 27rem;
+  }
+  
+  .blockPalevioletred {
+    background-color:palevioletred;
+    border: 5px dotted black;
+    top: 40.7rem;
+    left: 48rem;
+  }
+
+
+
+  
